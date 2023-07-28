@@ -18,7 +18,7 @@
     --primary-text-color: lightgray; /* Font color */
 
     --primary: 23, 13, 22;  /* Background color mainly used for popups */
-    --red: 0, 218, 58; /* Use RGB values */
+    --red: 0, 255, 58; /* Use RGB values */
     --blue: 114, 234, 248; /* Use RGB values */
     --yellow: 243, 230, 0; /* Use RGB values */
     --green: 71, 213, 139; /* Use RGB values */
